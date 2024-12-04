@@ -1,3 +1,28 @@
+# Todo App
+
+This is a React-based Todo App that demonstrates CRUD functionality, state management, and integration with a mock backend (JSON Server).
+
+## Features
+- Add, edit, and delete tasks.
+- Mark tasks as completed or not completed.
+- Filter tasks by status.
+- Responsive design with Bootstrap.
+
+## Technologies Used
+- React
+- Bootstrap
+- JS
+- JSON Server
+- SweetAlert2
+
+## Installation
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mfx1590/todo-app.git
+   cd todo-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
